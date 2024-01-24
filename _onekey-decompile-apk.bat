@@ -1,7 +1,7 @@
 @echo off
 echo ==================================
 echo Onekey Decompile Apk
-echo v2.4.1 20201126
+echo v2.9.3 20240124
 echo Based on https://code.google.com/p/onekey-decompile-apk/
 echo **********************************
 echo How to use
