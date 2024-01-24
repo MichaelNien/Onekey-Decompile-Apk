@@ -5,6 +5,16 @@ fix decompile resource
 
 Based on https://code.google.com/p/onekey-decompile-apk/
 
+## Tool
+
+[apktool](https://github.com/iBotPeaches/Apktool) 2.9.3
+
+[dex2jar](https://github.com/pxb1988/dex2jar) 2.1
+
+[jadx](https://github.com/skylot/jadx) 0.6.1
+
+[jd-gui](https://github.com/java-decompiler/jd-gui) 1.6.6
+
 How to use
 ----------------------------------
 
@@ -14,15 +24,3 @@ How to use
 
 You can replace your own framework-res.apk to get better experience of decompilation.
 framework-res.apk is in your phone sys\framework\framework-res.apk
-
-
-
-## Tool
-
-apktool 2.9.3
-
-dex2jar 2.1
-
-jadx 0.6.1
-
-jd-gui 1.6.6
