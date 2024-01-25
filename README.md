@@ -9,7 +9,7 @@ Based on https://code.google.com/p/onekey-decompile-apk/
 
 [apktool](https://github.com/iBotPeaches/Apktool) 2.9.3
 
-[dex2jar](https://github.com/pxb1988/dex2jar) 2.1
+[dex2jar](https://github.com/pxb1988/dex2jar) 2.4
 
 [jadx](https://github.com/skylot/jadx) 0.6.1
 
