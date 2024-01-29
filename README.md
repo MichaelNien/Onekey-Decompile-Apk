@@ -21,5 +21,5 @@ framework-res.apk is in your phone sys\framework\framework-res.apk
 | --------------------------------------------------- | ------- |
 | [apktool](https://github.com/iBotPeaches/Apktool)   | 2.9.3   |
 | [dex2jar](https://github.com/pxb1988/dex2jar)       | 2.4     |
-| [jadx](https://github.com/skylot/jadx)              | 0.6.1   |
+| [jadx](https://github.com/skylot/jadx)              | 1.4.7   |
 | [jd-gui](https://github.com/java-decompiler/jd-gui) | 1.6.6   |
