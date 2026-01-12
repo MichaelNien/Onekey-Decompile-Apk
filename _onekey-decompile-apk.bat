@@ -1,7 +1,7 @@
 @echo off
 echo ==================================
 echo Onekey Decompile Apk
-echo v2.11.0 20250115
+echo v2.12.1 20250918
 echo Based on https://code.google.com/p/onekey-decompile-apk/
 echo **********************************
 echo How to use
@@ -22,7 +22,7 @@ rd /s /q "%~dpn1" >NUL 2>NUL
 echo .........del temp..........
 del /Q /S "%~dp0\_temp"
 echo .........apktool..........
-java -jar "_tools\apktool\apktool_2.11.0.jar" d "%apkFile%" -p "%~dp0\_temp\apktool" -f
+java -jar "_tools\apktool\apktool_2.12.1.jar" d "%apkFile%" -p "%~dp0\_temp\apktool" -f
 echo .........dex2jar..........
 call _tools\dex2jar\d2j-dex2jar -f "%apkFile%" -o "%jarFile%"
 echo .........jd-gui...........
