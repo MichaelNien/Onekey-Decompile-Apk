@@ -1,6 +1,6 @@
 Onekey-Decompile-Apk
 ====================
-v2.12.1 20250918
+v3.0.2 20260419
 
 fix decompile resource
 
@@ -24,7 +24,7 @@ framework-res.apk is in your phone sys\framework\framework-res.apk
 
 | name                                                | version |
 | --------------------------------------------------- | ------- |
-| [apktool](https://github.com/iBotPeaches/Apktool)   | 2.12.1  |
+| [apktool](https://github.com/iBotPeaches/Apktool)   | 3.0.2   |
 | [dex2jar](https://github.com/pxb1988/dex2jar)       | 2.4     |
 | [jadx](https://github.com/skylot/jadx)              | 1.4.7   |
 | [jd-gui](https://github.com/java-decompiler/jd-gui) | 1.6.6   |
